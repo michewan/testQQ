@@ -1,0 +1,9 @@
+Github test!
+
+this is 11111111111  2223333 by wanxt.
+this is 666666 for issue54 by wanxt.
+<<<<<<< HEAD
+this is 88888 for isssue54 by wanxt.
+=======
+this is 77777 for issue 54 hotfix by michewan.
+>>>>>>> issue54-1
